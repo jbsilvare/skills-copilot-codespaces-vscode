@@ -1,4 +1,3 @@
-function myFunction() {
-    // Add your code here
-    console.log("Hello, world!");
+function calculateNumbers(var1, var2) {
+    return var1 + var2;
 }
